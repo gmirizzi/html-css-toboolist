@@ -42,18 +42,22 @@ nav {
 }
 
 button {
-    padding: 5px;
     border-radius: 5px;
 }
 
 #task {
     background-color: skyblue;
     color: white;
+    border-width: 0;
+    padding: 7px;
 }
 
 #section {
     background-color: transparent;
-    color: gray;
+    color: lightgray;
+    border: 2px solid lightgray;
+    padding: 5px;
+
 }
 
 main {
