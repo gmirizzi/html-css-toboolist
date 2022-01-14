@@ -29,6 +29,10 @@ nav {
     margin-bottom: 5px;
 }
 
+button {
+    padding: 5px;
+}
+
 main {
     margin-top: 25px;
 }
