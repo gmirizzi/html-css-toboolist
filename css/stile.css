@@ -37,6 +37,9 @@ section {
     margin-bottom: 15px;
 }
 
+.li {
+    margin: 5px auto;
+}
 .spunta {
     border: 2px solid;
     border-radius: 50%;
@@ -51,4 +54,12 @@ section {
 .unchecked {
     border-color: red;
     color: red;
+}
+
+.etichetta {
+    color: white;
+    background-color: royalblue;
+    border-radius: 5px;
+    padding: 1.5px 3px;
+    font-size: 0.5em;
 }
