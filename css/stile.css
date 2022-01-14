@@ -10,23 +10,34 @@ body {
     background-color: rgb(243, 243, 243);
 }
 
-header, #container {
+header, nav, main {
     background-color: white;
+}
+
+nav, main {
+    padding-left: 50px;
+}
+
+header {
+    position: relative;
 }
 
 h1 {
     display: inline-block;
+    position: absolute;
+    bottom: 20%;
 }
 
 #container {
     width: 80%;
-    margin: 20px auto;
-    padding: 5px 20px 20px;
+    margin: 30px auto;  
 }
 
 nav {
     margin-top: 7px;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 button {
@@ -34,7 +45,8 @@ button {
 }
 
 main {
-    margin-top: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 section {
