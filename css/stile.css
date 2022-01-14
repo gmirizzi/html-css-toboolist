@@ -96,8 +96,32 @@ h2 span {
 
 .etichetta {
     color: white;
+    border-radius: 7px;
+    padding: 4px 8px;
+    font-size: 0.75em;
+    vertical-align: middle;
+}
+
+.editoriale {
     background-color: royalblue;
-    border-radius: 5px;
-    padding: 1.5px 3px;
-    font-size: 0.5em;
+}
+
+.goals {
+    background-color: purple;
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color:palevioletred;
+}
+
+.vendite {
+    background-color:olive;
+}
+
+.recruiting {
+    background-color:mediumseagreen;
 }
