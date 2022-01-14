@@ -43,6 +43,17 @@ nav {
 
 button {
     padding: 5px;
+    border-radius: 5px;
+}
+
+#task {
+    background-color: skyblue;
+    color: white;
+}
+
+#section {
+    background-color: transparent;
+    color: gray;
 }
 
 main {
